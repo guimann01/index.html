@@ -24,12 +24,29 @@
 <p> o fluminense classicou apos uma vitoria por 3x1 sobre o internacional de porto alegre </p>
 <p> <strong> a final entre boca juniors e fluminense acontecera dia 4 de novembro as 21:30h pelo horario de brasilia</strong> </p>
     
-    <h3> </h3>
-    <p>parágrafo adendo</p>
+    <h3> botafogo com vantagemn grande no brasileiro seria A </h3>
+    <p> o clube carioca esta em primeiro lugar no campeonato com vantagem de 7 pontos para o bragantino, que esta em segundo lugar, o time esta com o titulo muito bem encaminhado</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
-    <div class="imagemcentralizada">
-<img class="imagem1" src="abertura.webp">
-    </div>
 
     <ul>
     <h4> titulo lista</h4>
