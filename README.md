@@ -20,11 +20,11 @@
     <p class="final definida"></p>
 <p class="brilho"> apos o palmeiras ser eliminado pelo boca juniors na semi final da libertadores, o time ira enfrentar o fluminense pela final do campeonato.</p>
     
-    <h2> o time argentino classificou nas disputas de penaltis </h2>
-<p> o  </p>
-<p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
+    <h2> fluminense x internacional </h2>
+<p> o fluminense classicou apos uma vitoria por 3x1 sobre o internacional de porto alegre </p>
+<p> <strong> a final entre boca juniors e fluminense acontecera dia 4 de novembro as 21:30h pelo horario de brasilia</strong> </p>
     
-    <h3> TÍTULO TRÊS</h3>
+    <h3> </h3>
     <p>parágrafo adendo</p>
     
     <div class="imagemcentralizada">
