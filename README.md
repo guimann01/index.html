@@ -21,7 +21,7 @@
 <p class="brilho"> apos o palmeiras ser eliminado pelo boca juniors na semi final da libertadores, o time ira enfrentar o fluminense pela final do campeonato.</p>
     
     <h2> o time argentino classificou nas disputas de penaltis </h2>
-<p> parágrafo 3 conteúdo escrito NÃO ESQUECER DE SEMPRE DEIXAR OS MARCADORES H1 E P DENTRO DO BODY, OU SEJA, ACIMA DO SEU FECHAMENTO E ABAIXO DA SUA ABERTURA </p>
+<p> o  </p>
 <p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
     
     <h3> TÍTULO TRÊS</h3>
