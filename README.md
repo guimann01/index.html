@@ -26,26 +26,6 @@
     
     <h3> botafogo com vantagemn grande no brasileiro seria A </h3>
     <p> o clube carioca esta em primeiro lugar no campeonato com vantagem de 7 pontos para o bragantino, que esta em segundo lugar, o time esta com o titulo muito bem encaminhado</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 
     <ul>
